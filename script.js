@@ -9,8 +9,9 @@ document.addEventListener('DOMContentLoaded', function() {
 
     const studentData = {
         "101": {
-            "name": "Abhishek Agarwal    PERCENTAGE = 68.10",
+            "name": "Abhishek Agarwal",
             "subjects": {
+                "PERCENTAGE": { "68.10%"},
                 "Anatomy(A)": { "marks": 25, "remarks": "PASS" },
                 "Physiology(B)": { "marks": 27, "remarks": "PASS" },
                 "Sociology(A)": { "marks": 23, "remarks": "PASS" },
