@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     const studentData = {
         "101": {
-            "name": "Abhishek Agarwal         PERCENTAGE = 68.10",
+            "name": "Abhishek Agarwal    PERCENTAGE = 68.10",
             "subjects": {
                 "Anatomy(A)": { "marks": 25, "remarks": "PASS" },
                 "Physiology(B)": { "marks": 27, "remarks": "PASS" },
