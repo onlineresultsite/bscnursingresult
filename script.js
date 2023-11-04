@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     const studentData = {
         "101": {
-            "name": "Abhishek Agarwal 68.10",
+            "name": "Abhishek Agarwal",
             "subjects": {
                 "Anatomy(A)": { "marks": 25, "remarks": "PASS" },
                 "Physiology(B)": { "marks": 27, "remarks": "PASS" },
